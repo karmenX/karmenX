@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hello Hello👋
 <img align="right" alt="GIF" src=https://github.com/karmenX/karmenX/blob/b0bd56dd210eb0944235b551d3e787c1c220905d/code%20gif.gif width="500" height="320" />
 <!--
 **karmenX/karmenX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+##💻 I'm a Computer Engineering student who's passionate about the field and always eager to learn and grow.😊
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
