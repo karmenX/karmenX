@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align="right" alt="GIF" src=https://github.com/karmenX/karmenX/blob/4ebc0a6c443a1394caef30ecebc8086523f2550a/code%20gif.gif"?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/karmenX/karmenX/blob/4ebc0a6c443a1394caef30ecebc8086523f2550a/code%20gif.gif"?raw=true" width="500" height="320" />
 <!--
 **karmenX/karmenX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
